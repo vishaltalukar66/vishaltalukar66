@@ -1,5 +1,5 @@
 # About Me:
-🔭 I’m currently working on React, NodeJs<br>I’m looking to collaborate on innovative React and NodeJs projects<br>🤝 I’m looking for help with advanced React concepts and optimizing NodeJs applications<br>🌱 I’m currently learning best practices for React performance <br>optimization and diving deeper into NodeJs ecosystem<br>
+🔭 I’m currently working on React, NodeJs<br> 🤝 I’m looking to collaborate on innovative React and NodeJs projects<br>🤝 I’m looking for help with advanced React concepts and optimizing NodeJs applications<br>🌱 I’m currently learning best practices for React performance <br>optimization and diving deeper into NodeJs ecosystem<br>
 
 
 ## 🌐 Socials:
